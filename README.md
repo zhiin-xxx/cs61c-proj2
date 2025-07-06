@@ -1,1 +1,1 @@
-# cs61c-proj2
+# 61C Project 2: CS61Classify
